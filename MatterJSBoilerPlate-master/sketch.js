@@ -31,7 +31,7 @@ function setup() {
 	mango9=new Mango(1100,230,40);
 	mango10=new Mango(1200,200,40);
 	mango11=new Mango(1120,50,40);
-	mango12=new mango(900,160,40);
+	mango12=new Mango(900,160,40);
 
 	tree=new tree(1050,580);
 	ground=new Ground(width/2,width,20);
